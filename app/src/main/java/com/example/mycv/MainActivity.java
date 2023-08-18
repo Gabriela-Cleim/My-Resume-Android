@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         imgDoc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://drive.google.com/file/d/1lgcb5ntZ1K-D_v0scmGlt4SI-a3juaEy/view?usp=sharing")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://drive.google.com/file/d/1mOvlKuoRkqGOT6AqSYx3gPB1lWIWV8KD/view?usp=drive_link")));
             }
         });
 

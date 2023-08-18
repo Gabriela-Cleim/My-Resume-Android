@@ -4,6 +4,7 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorPrimary">#007B7E</item>
+        <item name="android:windowIsTranslucent">true</item>
     </style>
 
     <style name="Theme.MyCV" parent="Base.Theme.MyCV" />
