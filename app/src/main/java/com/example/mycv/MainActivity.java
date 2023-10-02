@@ -14,15 +14,7 @@ import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageButton imgHelp;
-    ImageButton imgBrowser;
-    ImageButton imgDoc;
-    ImageButton imgLanguage;
-    ImageButton imgJava;
-    ImageButton imgAndroid;
-    ImageButton imgJS;
-    ImageButton imgHtml;
-    ImageButton imgCss;
+    ImageButton imgHelp, imgBrowser, imgDoc, imgLanguage, imgJava, imgAndroid, imgJS, imgHtml, imgCss;
 
 
     @Override
